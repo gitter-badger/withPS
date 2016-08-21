@@ -1,4 +1,6 @@
 # withPS
+
+[![Join the chat at https://gitter.im/withps/Lobby](https://badges.gitter.im/withps/Lobby.svg)](https://gitter.im/withps/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 withPS is a PowerShell version of the bash script [with](https://github.com/mchav/with)
 
 Program prefixing for continuous workflow using a single tool
